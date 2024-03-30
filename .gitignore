@@ -1,0 +1,6 @@
+/target
+local.data
+game.zip
+index.html
+bevy_simon_bg.wasm
+bevy_simon.js
